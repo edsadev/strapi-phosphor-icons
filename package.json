@@ -1,6 +1,5 @@
 {
-  "version": "0.0.0",
-  "keywords": [],
+  "version": "1.0.0",
   "type": "commonjs",
   "exports": {
     "./package.json": "./package.json",
@@ -63,7 +62,7 @@
     "displayName": "Strapi Phosphor Icons",
     "description": "Phosphor Icons picker for your strapi proyect"
   },
-  "name": "strapi-phosphor-icons",
+  "name": "@edsadev/strapi-phosphor-icons",
   "description": "Phosphor Icons picker for your strapi proyect",
   "license": "MIT",
   "repository": {
@@ -73,6 +72,15 @@
   "bugs": {
     "url": "https://github.com/edsadev/strapi-phosphor-icons/issues"
   },
+  "engines": {
+    "node": ">=18.x.x <=22.x.x",
+    "npm": ">=8.0.0"
+  },
   "homepage": "https://github.com/edsadev/strapi-phosphor-icons#readme",
-  "author": "edsadev <e.salamanca@edsadev.com>"
+  "author": "edsadev <e.salamanca@edsadev.com>",
+  "keywords": [
+    "strapi",
+    "plugin",
+    "strapi-plugin"
+  ]
 }

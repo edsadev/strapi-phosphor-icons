@@ -1,0 +1,11 @@
+src/
+admin/
+scripts/
+node_modules/
+*.ts
+*.tsbuildinfo
+tsconfig*.json
+.gitignore
+.vscode/
+tests/
+README.md
